@@ -298,3 +298,21 @@ Wide styles
 	height: 90px;
 }
 
+.content a:hover { 
+	color: #0095eb; 
+}
+.content a:link { 
+	color: #4caf50; 
+}
+.content a:visited { 
+	color: #4caf50; 
+}
+a{
+	font-style: italic;
+}
+.pub a:link { 
+	color: #0095eb;}
+.pub a:hover { 
+	color: #0095eb;}
+.pub a:visited { 
+	color: #0095eb;}
