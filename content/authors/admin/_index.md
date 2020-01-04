@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Cheng Huang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Research Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Sichuan University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include attack detection, underground economics, Cyber threat intelligence.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cybersecurity
+- Knowledge Graph
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Sichuan University
+    year: 2017
+  - course: Joint PhD student
+    institution: University of California, Santa Barbara
+    year: 2015
+  - course: BSc in Electrical Engineering
+    institution: Sichuan University
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +47,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=zh-CN&user=jOU0hKgAAAAJ&view_op=list_works&sortby=pubdate
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ourren
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Cheng Huang is an Assistant Research Professor in the College of Cybersecurity , Sichuan Univeristy. I am broadly interested in all aspects of network and system security. My work follows a measurement and data driven approach to characterize and detect critical security issues in large-scale systems. My current research focuses on attack detection, underground economics, DNS analysis, Cyber threat intelligence.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am looking for self-motivated students who have strong interests in Web security research. If you are interested, feel free to send me an email. (codesec [at] scu.edu.cn)
