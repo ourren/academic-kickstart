@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Cheng Huang is an Assistant Research Professor in the College of Cybersecurity, (Sichuan Univeristy)[http://en.scu.edu.cn/]. I am broadly interested in all aspects of network and system security. My work follows a measurement and data driven approach to characterize and detect critical security issues in large-scale systems. My current research focuses on attack detection, underground economics, cyber threat intelligence.
+Cheng Huang is an Assistant Research Professor in the College of Cybersecurity, [Sichuan Univeristy](http://en.scu.edu.cn/). I am broadly interested in all aspects of network and system security. My work follows a measurement and data driven approach to characterize and detect critical security issues in large-scale systems. My current research focuses on attack detection, underground economics, cyber threat intelligence.
 
 I am looking for self-motivated students who have strong interests in Web security research. If you are interested, feel free to send me an email. (codesec[at]scu.edu.cn)
