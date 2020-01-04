@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.com/citations?hl=zh-CN&user=jOU0hKgAAAAJ&view_op=list_works&sortby=pubdate
 - icon: github
   icon_pack: fab
-  link: https://github.com/ourren
+  link: https://github.com/scusec
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Cheng Huang is an Assistant Research Professor in the College of Cybersecurity , Sichuan Univeristy. I am broadly interested in all aspects of network and system security. My work follows a measurement and data driven approach to characterize and detect critical security issues in large-scale systems. My current research focuses on attack detection, underground economics, DNS analysis, Cyber threat intelligence.
+Cheng Huang is an Assistant Research Professor in the College of Cybersecurity, (Sichuan Univeristy)[http://en.scu.edu.cn/]. I am broadly interested in all aspects of network and system security. My work follows a measurement and data driven approach to characterize and detect critical security issues in large-scale systems. My current research focuses on attack detection, underground economics, cyber threat intelligence.
 
-I am looking for self-motivated students who have strong interests in Web security research. If you are interested, feel free to send me an email. (codesec [at] scu.edu.cn)
+I am looking for self-motivated students who have strong interests in Web security research. If you are interested, feel free to send me an email. (codesec[at]scu.edu.cn)
