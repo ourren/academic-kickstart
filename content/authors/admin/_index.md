@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include attack detection, underground economics, Cyber threat intelligence.
+bio: My research interests include attack detection, underground economics, cyber threat intelligence.
 
 interests:
 - Artificial Intelligence
